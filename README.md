@@ -1,12 +1,9 @@
-Symfony Standard Edition
+Simple REST API in Symfony 3.1
 ========================
 
-Welcome to the Symfony Standard Edition - a fully-functional Symfony
-application that you can use as the skeleton for your new applications.
+This Project contains a simple Rest api written in symfony 3.1.
 
-For details on how to download and get started with Symfony, see the
-[Installation][1] chapter of the Symfony Documentation.
-
+You can also view the complete tutorial at [**Cloudways**][14]
 What's inside?
 --------------
 
@@ -66,3 +63,4 @@ Enjoy!
 [10]: https://symfony.com/doc/3.0/cookbook/email.html
 [11]: https://symfony.com/doc/3.0/cookbook/logging/monolog.html
 [13]: https://symfony.com/doc/3.0/bundles/SensioGeneratorBundle/index.html
+[14]: https://www.cloudways.com/blog/rest-api-in-symfony-3-1/
